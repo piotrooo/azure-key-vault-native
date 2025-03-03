@@ -19,7 +19,7 @@ repositories {
 }
 
 ext {
-    set('springCloudAzureVersion', "5.19.0")
+    set('springCloudAzureVersion', "5.20.0")
     set('springShellVersion', "3.4.0")
 }
 
